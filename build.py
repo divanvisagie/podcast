@@ -12,10 +12,7 @@ p.episodes += [
    Episode(
      title="Overcomplicated Design",
      media=Media("http://dvisagie.com/podcast/episodes/episode_1.mp3", 11932295),
-     summary="With an English name adapted directly from Afrikaans "
-             '-- literally meaning "earth pig" -- this fascinating '
-             "animal has both circular teeth and a knack for "
-             "digging.",
+     summary="In this episode we discuss the phenomenon of overcomplicated software design and how in most cases its unecessary",
    ),
 #    Episode(
 #       title="Alpaca",
