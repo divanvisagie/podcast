@@ -10,7 +10,7 @@ p = Podcast(
 # Add some episodes
 p.episodes += [
     Episode(
-        title="Overcomplicated Design",
+        title="Episode 1: Overcomplicated Design",
         media=Media(
             "http://dvisagie.com/podcast/episodes/episode_1.mp3", 11932295),
         summary="In this episode we discuss the phenomenon of overcomplicated software "
